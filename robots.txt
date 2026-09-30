@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.xn--youxincloud-909q08coye.com/sitemap.xml
